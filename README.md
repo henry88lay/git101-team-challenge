@@ -5,5 +5,7 @@
 3. All Members create a new branch to add their own name in the text file previously created.
 4. Each member raises a pull request and seek getting your PR reviewed and approve and then merge.
 
+5. < hi >
+
 ## End Goal
 Have all team members names on the `Invite-List.txt`
